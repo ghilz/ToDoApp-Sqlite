@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="insert_new_item">Insert new Item</string>
+    <string name="add">Add</string>
+    <string name="action_new_item">New item</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_login_google">Accedi con Google</string>
+    <string name="action_login_mail">Accedi tramite la tua email</string>
+    <string name="registration_CD_logo">ToDoApp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">LogIn</string>
+    <string name="sign_up_text">SignUp</string>
+    <string name="login_error_title">LogIn error</string>
+    <string name="login_error_message">Password o email non sono corrette</string>
+    <string name="sign_up_button_label">SignUp</string>
+    <string name="signup_error_message">Password e email non possono essere vuote</string>
+    <string name="signup_error_title">Signup error</string>
+</resources>
